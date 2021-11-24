@@ -1,0 +1,44 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#navigation {
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
+
+#navigation #topic {
+    border-right: 1px solid silver;
+    padding-right: 10px;
+    font-size: 36px;
+}
+
+#navigation ul li {
+    padding: 10px;
+}
+
+main {
+    margin-top: 20px;
+}
+
+main .container h1 {
+    text-transform: capitalize;
+}
+
+#info {
+    height: 220px;
+    border-radius: 5px;
+}
+
+main h1 {
+    margin-bottom: 20px;
+}
+
+main h3 {
+    font-size: 24px;
+}
+
+main .container #cont-border {
+    border-right: 1px solid silver;
+}
