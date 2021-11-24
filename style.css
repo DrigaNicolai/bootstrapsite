@@ -56,3 +56,20 @@ main .container #cont-border {
 main .container #section h4 {
     display: inline-block;
 }
+
+.container {
+    margin-bottom: 5px;
+}
+
+.card-img-top {
+    height: 180px;
+}
+
+.card {
+    height: 410px;
+}
+
+.card .btn {
+    position: absolute;
+    top: 360px;
+}
